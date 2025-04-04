@@ -33,7 +33,7 @@ To clean raw healthcare data and make it analysis-ready by removing inconsistenc
 ## Before
 ![2025-04-04 (1)](https://github.com/user-attachments/assets/3053d325-5a17-41cc-bc92-24fbb85cd0ff)
 
-##After
+## After
 ![2025-04-04 (2)](https://github.com/user-attachments/assets/f45c2063-f392-452f-808e-4951d8cb40b0)
 
 
