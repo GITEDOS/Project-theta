@@ -21,10 +21,9 @@ To clean raw healthcare data and make it analysis-ready by removing inconsistenc
 
 ## Files
 
-- `data/raw_healthcare_data.csv` – Original dataset
-- `data/cleaned_healthcare_data.csv` – Final cleaned version
+- `raw_healthcare_data.csv` – Original dataset
+- `cleaned_healthcare_data.csv` – Final cleaned version
 - `sql/` – Folder containing SQL scripts for each cleaning step
-- `visuals/before_vs_after.png` – Snapshot showing the effect of cleaning
 
 ---
 
