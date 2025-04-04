@@ -23,7 +23,7 @@ To clean raw healthcare data and make it analysis-ready by removing inconsistenc
 
 - `raw_healthcare_data.csv` – Original dataset
 - `cleaned_healthcare_data.csv` – Final cleaned version
-- `sql/` – Folder containing SQL scripts for each cleaning step
+- `healthcare sql script` – contains SQL queries for each cleaning step
 
 ---
 
