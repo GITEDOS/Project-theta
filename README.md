@@ -1,6 +1,6 @@
 # Healthcare SQL Data Cleaning Project
 
-This project focuses on cleaning a real-world healthcare dataset using **MySQL**. The dataset contains over 10,000 records of patient information, diagnoses, admissions, and more.
+This project focuses on cleaning a Synthetic healthcare dataset using **MySQL**. The dataset contains over 1,000 records of patient information, diagnoses, admissions, and more.
 
 ---
 
